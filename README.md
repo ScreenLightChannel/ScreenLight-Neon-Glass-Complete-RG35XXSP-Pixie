@@ -1,7 +1,7 @@
 # ScreenLight-Neon-Glass-Complete-RG35XXSP-Theme-Pixie
 ScreenLight - Neon Glass (Complete)
 
-hey everyone - here’s the complete revision to my first theme; it’s neon based. the theme is 640x480 (rg35xxsp). hdmi capable (1280x720). sub menu has been streamlined (smaller icons). 13 variations.
+hey everyone - here’s the complete revision to my first muOS theme; it’s neon based. the theme is 640x480 (rg35xxsp). hdmi capable (1280x720). sub menu has been streamlined (smaller icons). 13 variations.
 
 ScreenLight - Neon Glass (Original)
 ScreenLight - Neon Glass (Color Splat)
